@@ -1,6 +1,6 @@
 {
-  "name": "burger-queen-node-electivo",
-  "version": "0.0.0",
+  "name": "api-rest",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -43,5 +43,17 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.4.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucilajuliopizarro/burger-Queen-Node-electivo.git"
+  },
+  "author": "lucila julio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucilajuliopizarro/burger-Queen-Node-electivo/issues"
+  },
+  "homepage": "https://github.com/lucilajuliopizarro/burger-Queen-Node-electivo#readme"
 }
